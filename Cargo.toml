@@ -8,6 +8,6 @@ authors = ["Jackson Hoffart <jackson.hoffart@gmail.com>"]
 
 [dependencies]
 env_logger = '0.5.3'
-future = '0.1.17'
+futures = '0.1.17'
 hyper = '0.11.13'
 log = '0.4.1'
